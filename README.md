@@ -1,4 +1,4 @@
-# webrtc-ios-build ![travis](https://travis-ci.org/smircea1/webrtc-ios-build.svg?branch=master)
+# webrtc-ios-build [![Build Status](https://travis-ci.org/smircea1/webrtc-ios-build.svg?branch=master)](https://travis-ci.org/smircea1/webrtc-ios-build)
 
 This is build helper tool for [webrtc_ios](https://webrtc.org/native-code/ios/).
 
